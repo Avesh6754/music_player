@@ -56,6 +56,17 @@ The **Music Player App** is a Flutter-based audio player that allows users to **
 ## 📜 License  
 *(Mention if your project has a license, like MIT, Apache, etc.)*  
 
----
 
-Would you like me to add a **Usage Guide** or **Code Snippets**? 🚀
+
+
+<p>
+  <img src="https://github.com/user-attachments/assets/2a7b3797-5b33-4fcb-b0d5-fe60524e8641" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/2d213405-c892-474d-a694-5c385b617d36" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/7ae1f4b4-60a3-4ff0-bf20-bde36e4a5145" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/867b484c-8c44-4ad8-a25b-c1dbef7ec8b1" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/19f38db0-73ee-4b1c-aa47-1cbe80038d7d" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/797d8123-8b19-4401-958f-91e42c3c0e71" width="22%" Height="35%">
+  </p>
+
+https://github.com/user-attachments/assets/901c34fa-fd3d-4674-abcd-4b33a28f27cb
+
