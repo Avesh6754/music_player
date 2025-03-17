@@ -1,6 +1,4 @@
-Here’s a well-structured **README** description for your **Music Player App** using Flutter with **just_audio**, **Provider**, and **SQLite**:  
 
----
 
 # 🎵 Music Player App  
 
@@ -10,16 +8,19 @@ The **Music Player App** is a Flutter-based audio player that allows users to **
 - **just_audio** → For playing audio files  
 - **Provider** → For state management  
 - **SQLite** → For storing and retrieving favorite songs  
+- **SharedPreferences** → For saving user preferences (e.g., onboarding status,)  
 
 ---
 
 ## 🚀 Features  
 ✅ **Play Songs** – Smooth playback with just_audio  
 ✅ **Search Functionality** – Quickly find your favorite tracks  
-✅ **Add to Favorites** – Save your preferred songs to a favorites list  
-✅ **Onboarding Screen** – Guides users through the app’s features on first launch  
+✅ **Add to Favorites** – Save your preferred songs to a favorites list (stored in SQLite)  
+✅ **Onboarding Screen** – Guides users through the app’s features on first launch (managed with SharedPreferences)  
 ✅ **State Management** – Handled with Provider for efficient UI updates  
-✅ **Persistent Data** – SQLite database stores user favorites  
+✅ **Persistent Data** –  
+   - **SQLite** → Stores user favorite songs  
+   - **SharedPreferences** → Saves user settings (onboarding completion)  
 
 ---
 
@@ -28,6 +29,7 @@ The **Music Player App** is a Flutter-based audio player that allows users to **
 - **just_audio** (Audio playback)  
 - **Provider** (State management)  
 - **SQLite** (Local storage for favorites)  
+- **SharedPreferences** (User preferences storage)  
 
 ---
 
@@ -55,6 +57,10 @@ The **Music Player App** is a Flutter-based audio player that allows users to **
 
 ## 📜 License  
 *(Mention if your project has a license, like MIT, Apache, etc.)*  
+
+---
+
+Would you like to include a **Usage Guide**, **Code Snippets**, or **API details**? 🚀
 
 
 
